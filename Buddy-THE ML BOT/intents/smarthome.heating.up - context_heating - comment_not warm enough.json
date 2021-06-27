@@ -1,0 +1,34 @@
+{
+  "id": "46a6e733-478b-49a6-89a4-cabf2ac60b1a",
+  "name": "smarthome.heating.up - context:heating - comment:not warm enough",
+  "auto": true,
+  "contexts": [
+    "heating"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.heating.up",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

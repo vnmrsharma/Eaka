@@ -1,0 +1,345 @@
+[
+  {
+    "id": "00608aa9-b3f9-4169-8fa5-95da70f2db16",
+    "data": [
+      {
+        "text": "the air is too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ba05f58-5419-43ff-b31e-79d938739e80",
+    "data": [
+      {
+        "text": "I\u0027m getting hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02b9c19-843f-40e5-bcc9-512d9b6cb0cf",
+    "data": [
+      {
+        "text": "it\u0027s too warm here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "531e610e-69b4-47a5-813a-0e7b04f46409",
+    "data": [
+      {
+        "text": "I\u0027m hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a04e99ac-d5e3-44bb-8eb9-093098583cdb",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "warm",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "596e777a-4893-4739-be4f-df5af1fff3ce",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@all",
+        "alias": "all",
+        "userDefined": true
+      },
+      {
+        "text": " rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f061e82-55c1-4cc5-aef5-f76a7fcb2a3c",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1a2c383-1f5e-454d-96c4-3fabdf1c6f51",
+    "data": [
+      {
+        "text": "it is hot in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b9e70a-720f-4237-afcd-825e329e2106",
+    "data": [
+      {
+        "text": "it\u0027s very hot here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26f2c1bc-d840-47a5-a68e-5ee61a038fee",
+    "data": [
+      {
+        "text": "it is really hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c0d34a-b2db-4889-873d-d7e6d8eb0d1e",
+    "data": [
+      {
+        "text": "it is really hot here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4d415c0-33a5-4ac9-91dd-67f258c4186e",
+    "data": [
+      {
+        "text": "it is too warm in here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "437a69af-c78c-43f0-ada4-fb185ea09aa8",
+    "data": [
+      {
+        "text": "it\u0027s very hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f935329-99ac-4b49-acc5-cd731eb5ad83",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c554e7f6-dc73-46ac-adea-a738d1da7ab3",
+    "data": [
+      {
+        "text": "it",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56d6c23a-ab7e-42dc-80d5-d53c2344d996",
+    "data": [
+      {
+        "text": "it\u0027s hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "997d83a0-e41b-4d78-b782-57eeabaad5fc",
+    "data": [
+      {
+        "text": "it is too hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8221f0d4-be1b-494f-a046-a81312a2fd98",
+    "data": [
+      {
+        "text": "too ",
+        "userDefined": false
+      },
+      {
+        "text": "hot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen",
+        "meta": "@room",
+        "alias": "room",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5168d5f8-728a-4e23-932d-8ffb6722945c",
+    "data": [
+      {
+        "text": "it\u0027s too hot in here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9bc311-9a9b-40bc-90d4-96dcbae9c363",
+    "data": [
+      {
+        "text": "I\u0027m feeling hot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

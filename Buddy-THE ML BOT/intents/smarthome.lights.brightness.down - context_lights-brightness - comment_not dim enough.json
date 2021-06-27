@@ -1,0 +1,34 @@
+{
+  "id": "693ff841-c5ac-4f4d-b528-b4a70b315da9",
+  "name": "smarthome.lights.brightness.down - context:lights-brightness - comment:not dim enough",
+  "auto": true,
+  "contexts": [
+    "lights-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.lights.brightness.down",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

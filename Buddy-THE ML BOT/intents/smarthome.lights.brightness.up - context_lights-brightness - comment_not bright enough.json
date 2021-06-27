@@ -1,0 +1,34 @@
+{
+  "id": "72da7b27-0e89-425f-a204-da713719249a",
+  "name": "smarthome.lights.brightness.up - context:lights-brightness - comment:not bright enough",
+  "auto": true,
+  "contexts": [
+    "lights-brightness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smarthome.lights.brightness.up",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
