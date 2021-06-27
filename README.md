@@ -29,7 +29,9 @@ Chatbot development using Dialogflow
 *  For the next step we will be introducing a flutter based cross platform to continue EAKA.
 *  Implementation of Human-Centric Sentimental analysis and integration with the application.
 *  Creation for a robust module from the data interaction with the humans/ students.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zrNnMU41RG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/zrNnMU41RG8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
